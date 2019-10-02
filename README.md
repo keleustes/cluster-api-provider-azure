@@ -30,7 +30,7 @@ TODO
 
 This provider's versions are compatible with the following versions of Cluster API:
 
-|  | Cluster API `v1alpha1` (`v0.1.x`) | Cluster API `v1alpha2` (`v0.2.x`) |
+|  | Cluster API `v1alpha1` (`v0.1.x`) | Cluster API `v1alpha3` (`v0.2.x`) |
 |---|---|---|
 |Azure Provider `v0.2.x` | ✓ |  |
 |Azure Provider `v0.3.x` |  | ✓ |

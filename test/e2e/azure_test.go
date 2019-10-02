@@ -31,7 +31,7 @@ package e2e_test
 // 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 // 	apimachinerytypes "k8s.io/apimachinery/pkg/types"
 // 	"k8s.io/client-go/kubernetes"
-// 	capz "sigs.k8s.io/cluster-api-provider-azure/apis/v1alpha2"
+// 	capz "sigs.k8s.io/cluster-api-provider-azure/apis/v1alpha3"
 // 	capi "sigs.k8s.io/cluster-api/pkg/apis/cluster/v1alpha1"
 // 	"sigs.k8s.io/cluster-api/pkg/util"
 // 	crclient "sigs.k8s.io/controller-runtime/pkg/client"
